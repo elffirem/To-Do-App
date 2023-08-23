@@ -18,7 +18,6 @@ const Item = ({
   onEdit,
   isChecked,
   onChangeCheckedStat,
-  task,
 }: Props) => {
   const [isEditing, setIsEditing] = useState(false);
   const [editedTask, setEditedTask] = useState(children);
