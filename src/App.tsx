@@ -1,4 +1,3 @@
-import React from "react";
 import List from "./components/List";
 import "./app.css";
 import Header from "./components/Header";
